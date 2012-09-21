@@ -11,3 +11,6 @@ latihan-git
 * 'git log' : melihat riwayat perubahan
 * 'git log --online' : melihat riwayat perubahan
 * 'git checkout <nama-brach> : kembali ke posisi terbaru di <nama-branch>
+* 'git push' : mengupload perubahan dari local ke server
+* 'git pull' : mengdownload perubahan dari server ke local
+
